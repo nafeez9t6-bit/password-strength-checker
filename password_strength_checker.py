@@ -2,7 +2,7 @@
 Password Strength Checker
 A simple tool that evaluates password strength based on common security criteria.
 
-Author: [Your Name]
+Author: [Nafeez]
 """
 
 import re
